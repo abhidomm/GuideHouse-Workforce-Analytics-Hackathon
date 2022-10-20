@@ -1,2 +1,12 @@
 # GuideHouse-Workforce-Analytics-Hackathon
 Teammates: Abhi Dommalapati, Haley Kitasato, Hirsh Gupta, Justin Rokisky, Torin Savoy
+
+
+
+In order to address this year’s Hackathon prompt, we used a Tableau Dashboard to explore the U.S. Healthcare Workforce Shortage. Using publicly available data from CDC’s 500 Places and Behavioral Risk Factor Surveillance System, Healthcare Practitioner Shortage Areas, the Office of Personnel Management Federal Employee Viewpoint Survey, the Bureau of Labor Statistics, and the Congressional Budget Office’s Population estimates, we explore healthcare worker trends and areas of high need for healthcare professionals.
+
+Our dashboard explores data both over time and geospatially. To look at healthcare worker trends we examined healthcare worker attitudes, physician-to-U.S.-population ratios, job availability and openings, and the demand and supply for physicians over time. We observed that the U.S. has a need for more healthcare workers now, and that this need is projected to last into the future. Geospatially, we looked at the intersection of higher levels of chronic disease and poverty in the U.S. and how that can indicate areas where additional physician support could be needed.  
+
+Additionally, we used modeling to look at areas in the U.S. with greatest need of physicians. Using the Health Provide Shortage Area (HPSA) dataset, we developed a logistic regression model to predict how likely a given location is to have a high score -- 18 or above -- indicating that the location has a critical need for more healthcare providers. This model can be used to help plan resources and identify locations that require the most assistance.
+
+By using publicly available data, we are able to see that there is a need to address the healthcare worker shortage in the United States. We also were able to identify that this problem is multi-faceted and not uniformly distributed around the United States. In order to address this crisis, we recommend a two-fold strategy to increase the number of physicians, as well as target these increases to populations who need them the most. First and foremost, the healthcare industry needs to identify effective methods of limiting healthcare worker burnout and improving working conditions for healthcare workers to limit the loss of healthcare workers across the U.S. Additionally, policies need to be implemented to ensure the healthcare workers we do have are most effectively spread across the U.S. to ensure the population has access to care.
