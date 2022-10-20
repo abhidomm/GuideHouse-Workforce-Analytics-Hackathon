@@ -1,7 +1,7 @@
 # GuideHouse-Workforce-Analytics-Hackathon
 Teammates: Abhi Dommalapati, Haley Kitasato, Hirsh Gupta, Justin Rokisky, Torin Savoy
 
-LINK TO DASHBOARD: https://public.tableau.com/shared/JKNTTX8G6?:display_count=n&:origin=viz_share_link
+Link to Dashboard: https://public.tableau.com/shared/JKNTTX8G6?:display_count=n&:origin=viz_share_link
 
 In order to address this year’s Hackathon prompt, we used a Tableau Dashboard to explore the U.S. Healthcare Workforce Shortage. Using publicly available data from CDC’s 500 Places and Behavioral Risk Factor Surveillance System, Healthcare Practitioner Shortage Areas, the Office of Personnel Management Federal Employee Viewpoint Survey, the Bureau of Labor Statistics, and the Congressional Budget Office’s Population estimates, we explore healthcare worker trends and areas of high need for healthcare professionals.
 
