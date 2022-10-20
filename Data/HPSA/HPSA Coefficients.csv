@@ -1,0 +1,18 @@
+Variable,Coefficient
+(Intercept),-4.044505429
+HPSA.Discipline.ClassMental Health,0.109697851
+HPSA.Discipline.ClassPrimary Care,-0.594930421
+HPSA.FTE,-0.115909765
+HPSA.Designation.Population,3.48E-06
+Common.Region.NameRegion 10,0.138787197
+Common.Region.NameRegion 2,-2.177087522
+Common.Region.NameRegion 3,0.381759852
+Common.Region.NameRegion 4,0.467815143
+Common.Region.NameRegion 5,0.181122298
+Common.Region.NameRegion 6,0.242042969
+Common.Region.NameRegion 7,0.734385395
+Common.Region.NameRegion 8,1.453794557
+Common.Region.NameRegion 9,-0.261087666
+HPSA.Shortage,0.008867221
+Perc.Pop.Below.Poverty,18.9044033
+Perc.Pop.Served,-3.161529321
